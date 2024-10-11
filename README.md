@@ -20,6 +20,10 @@ A atividade consistia em desenvolver um jogo da velha. Achei interessante o form
 
   <img src="./img/img2.png">
 
+## Novas atualizações
+- Em novas versões deste código, poderá ser possível, por exemplo, informar o nome de cada jogador, para que o programa informe quem ganhou pelo nome.
+
+
 ---
 
 <p align="center">
