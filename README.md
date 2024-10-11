@@ -1,4 +1,4 @@
-# jogo-da-velha
+# Jogo da Velha
 <a href="https://github.com/shioheii">
   <img alt="Linguagens" src="https://img.shields.io/badge/autor-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-DB3833">
 </a>
