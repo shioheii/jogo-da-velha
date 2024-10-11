@@ -2,15 +2,7 @@
 <a href="https://github.com/shioheii">
   <img alt="Linguagens" src="https://img.shields.io/badge/autor-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-DB3833">
 </a>
-<a href="#">
-  <img alt="Linguagens" src="https://img.shields.io/github/last-commit/shioheii/jogo-da-velha?color=DB3833">
-</a>
-<a href="#">
-  <img alt="Linguagens" src="https://img.shields.io/github/languages/count/shioheii/jogo-da-velha?color=DB3833">
-</a>
-<a href="#">
-  <img alt="Linguagens" src="https://img.shields.io/github/languages/code-size/shioheii/jogo-da-velha?color=DB3833">
-</a><br />
+
 Atividade proposta na disciplina de Lógica de Programação, na Universidade Federal de São Paulo
 
 ## Atividade
