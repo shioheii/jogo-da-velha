@@ -10,7 +10,7 @@ A atividade consistia em desenvolver um jogo da velha. Achei interessante o form
 
 ## Ferramentas e Linguagens
 - Linguagem: C
-- IDE: Replit
+- IDE: VS Code
 
 ## Como ficou o projeto
 - Quando o jogo é iniciado, ele pede para o jogador 1 indicar sua linha e sua coluna a qual deseja marcar.
